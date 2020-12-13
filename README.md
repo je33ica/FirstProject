@@ -1,6 +1,6 @@
 # New Dish, Who Dis
 
-[Live](https://the-chioma.github.io/FirstProject/)
+[Live](https://je33ica.github.io/New-dish-who-dis-/.)
 
 An Inspired by the current global pandemic, with the increase of more people at home and cooking we wanted to create an app to make those experiences more fun
 
